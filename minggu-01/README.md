@@ -6,7 +6,7 @@
 3. Try add diff file then commit it  
 ![alt text](images/03.PNG "Try add diff file then commit it")   
  Oops, we must config email and name for this local repo  
- 4. Config email and name for git
+ 4. Config email and name for git  
  ![alt text](images/04.PNG "Config email and name for git")  
  5. Recommit the change  
  ![alt text](images/05.PNG "Recommit the change")  
