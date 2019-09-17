@@ -16,3 +16,5 @@ its new-branch
 ![Bacot](images/09.PNG)  
 6. Pull change again  
 ![Pull change again ](images/10.PNG) 
+7. Merge branch master from new-branch  
+![Merge branch master from new-branch](images/11.PNG)  
