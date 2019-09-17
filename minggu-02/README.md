@@ -10,7 +10,7 @@ its new-branch
 ![Create pull request](images/05.PNG)  
 ![Create pull request](images/06.PNG)  
 ![Create pull request](images/07.PNG)  
-4. Change branch
+4. Change branch  
 ![Change branch](images/08.PNG)  
 5. Can't push because it must be pull before  
 ![Bacot](images/09.PNG)  
