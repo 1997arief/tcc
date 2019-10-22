@@ -29,4 +29,7 @@ $ npm run build
 $ npm start
 ```  
 and upload to your zeit project just using `now`  
+```
+$ now
+```  
 You can see my first next.js app at [https://first-next.arief.now.sh/](https://first-next.arief.now.sh/)
