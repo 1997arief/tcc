@@ -22,7 +22,7 @@ $ cd first-next
 $ npm run dev
 ``` 
 Open on your localhost and the default port for next.js is 3000
-![Next.js](images/01.png)  
+![Next.js](images/01.PNG)  
 8. Build and start your project
 ```
 $ npm run build
