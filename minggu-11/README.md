@@ -11,7 +11,8 @@ Anggota :
 `Felix Jefrian`
 ## Getting Started Software IaaS  
 `Arief M. Ikhsan`  
-[https://www.openstack.org/software/start/](https://www.openstack.org/software/start/)
+[https://www.openstack.org/software/start/](https://www.openstack.org/software/start/)  
+[https://docs.openstack.org/install-guide/get-started-with-openstack.html](https://docs.openstack.org/install-guide/get-started-with-openstack.html)
 ## Arsitektur dan Konsep Deployment  
 Arsitektur : `Fauzan H.`  
 Konsep Deployment : `Yoga K. S.`  
