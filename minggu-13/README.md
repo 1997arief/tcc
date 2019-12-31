@@ -19,7 +19,7 @@ To add a manager to this swarm, run 'docker swarm join-token manager' and follow
 ```
 $ sudo docker node ls
 ID                            HOSTNAME            STATUS              AVAILABILITY        MANAGER STATUS      ENGINE VERSION
-ilebwnekgymz3vxf5xsx9uz76 *   best         Ready               Active              Leader              18.09.7
+ilebwnekgymz3vxf5xsx9uz76 *   best                Ready               Active              Leader              18.09.7
 
 ```
 
@@ -36,7 +36,7 @@ This node joined a swarm as a worker.
 $ sudo docker node ls
 ID                            HOSTNAME            STATUS              AVAILABILITY        MANAGER STATUS      ENGINE VERSION
 q81mazl250oon5zepcocivkxv     docker-desktop      Ready               Active                                  19.03.5
-ilebwnekgymz3vxf5xsx9uz76 *   best         Ready               Active              Leader              18.09.7
+ilebwnekgymz3vxf5xsx9uz76 *   best                Ready               Active              Leader              18.09.7
 ```
 - Melakukan Deploy stack ke swarm, pada praktik ini menggunakan docker-compose.yml pada praktikum pertemuan 12
 ```
